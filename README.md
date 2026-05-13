@@ -51,81 +51,71 @@ fun_fact:    I build tools that help students get free food 🍕
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emny04/MuJoCo-ObjectManipulation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emny04&repo=MuJoCo-ObjectManipulation&theme=tokyonight&hide_border=true" alt="MuJoCo-ObjectManipulation" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Emny04/MuJoCo-ObjectManipulation">MuJoCo-ObjectManipulation</a></h3>
+      <p>Robotic pick-and-place simulation framework using the MuJoCo physics engine. Controls a robotic gripper to grasp and place objects in a realistic environment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MuJoCo-FF6F61?style=flat-square" alt="MuJoCo" />
+        <img src="https://img.shields.io/github/stars/Emny04/MuJoCo-ObjectManipulation?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emny04/PathFinder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emny04&repo=PathFinder&theme=tokyonight&hide_border=true" alt="PathFinder" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emny04/FreeFoodLocator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emny04&repo=FreeFoodLocator&theme=tokyonight&hide_border=true" alt="FreeFoodLocator" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emny04/Gala-waitlist">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emny04&repo=Gala-waitlist&theme=tokyonight&hide_border=true" alt="Gala" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Emny04/PathFinder">PathFinder</a></h3>
+      <p>AI-powered platform helping minorities navigate the job market through personalized resume analysis, tailored job suggestions, and course recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/AI-9146FF?style=flat-square" alt="AI" />
+        <img src="https://img.shields.io/github/stars/Emny04/PathFinder?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emny04/usf-reach-safe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emny04&repo=usf-reach-safe&theme=tokyonight&hide_border=true" alt="usf-reach-safe" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🍕 <a href="https://github.com/Emny04/FreeFoodLocator">FreeFoodLocator</a></h3>
+      <p>Notifies students about free food events on campus using AI and web scraping. Aggregates real-time data from university event pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Web%20Scraping-FF6B35?style=flat-square" alt="Web Scraping" />
+        <img src="https://img.shields.io/github/stars/Emny04/FreeFoodLocator?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Emny04/inCollege">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emny04&repo=inCollege&theme=tokyonight&hide_border=true" alt="inCollege" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🎉 <a href="https://github.com/Emny04/Gala-waitlist">Gala</a></h3>
+      <p>End-to-end event booking platform for venues, entertainers, and catering. Compare vendors, check availability, and pay securely online.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/Full--Stack-4CAF50?style=flat-square" alt="Full-Stack" />
+        <img src="https://img.shields.io/github/stars/Emny04/Gala-waitlist?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Emny04/usf-reach-safe">usf-reach-safe</a></h3>
+      <p>Safety and check-in application for University of South Florida students. Built with TypeScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/github/stars/Emny04/usf-reach-safe?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/Emny04/inCollege">inCollege</a></h3>
+      <p>Student networking app enabling college students to connect, apply for internships, and explore career opportunities. Built with Python and SQL using secure coding practices.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/github/stars/Emny04/inCollege?style=flat-square&color=yellow&label=%E2%AD%90" alt="Stars" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Emny04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Emny04&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emny04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emny04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emny04&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
----
-
-<div align="center">
-
-  💡 *“Build things that solve real problems — start small, ship often.”*
+  💡 *"Build things that solve real problems — start small, ship often."*
 
   ⭐️ Thanks for stopping by!
 
