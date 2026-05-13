@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="600" height="50">
+  <rect width="600" height="50" fill="none"/>
+  <style>
+    text { font-family: 'Courier New', monospace; font-size: 20px; fill: #58A6FF; text-anchor: middle; }
+    .line { opacity: 0; }
+    .line1 { animation: show 16s infinite 0s; }
+    .line2 { animation: show 16s infinite 4s; }
+    .line3 { animation: show 16s infinite 8s; }
+    .line4 { animation: show 16s infinite 12s; }
+    @keyframes show {
+      0%   { opacity: 0; }
+      5%   { opacity: 1; }
+      20%  { opacity: 1; }
+      25%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+  </style>
+  <text class="line line1" x="300" y="34">Robotics + ML Researcher at RPAL</text>
+  <text class="line line2" x="300" y="34">Building AI-powered products</text>
+  <text class="line line3" x="300" y="34">Open to SWE / ML / Robotics roles</text>
+  <text class="line line4" x="300" y="34">USF CS Graduate | 3.87 GPA</text>
+</svg>

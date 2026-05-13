@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" width="854" height="200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1b27"/>
+      <stop offset="50%" style="stop-color:#58A6FF"/>
+      <stop offset="100%" style="stop-color:#1a1b27"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="854" height="200" fill="#1a1b27"/>
+  <!-- Wave top -->
+  <path d="M0,80 C150,140 350,20 500,80 C650,140 750,40 854,80 L854,0 L0,0 Z" fill="url(#grad)" opacity="0.6"/>
+  <path d="M0,100 C200,160 400,40 600,100 C720,140 800,60 854,100 L854,0 L0,0 Z" fill="#58A6FF" opacity="0.15"/>
+  <!-- Wave bottom -->
+  <path d="M0,160 C150,120 350,180 500,150 C650,120 750,170 854,150 L854,200 L0,200 Z" fill="url(#grad)" opacity="0.6"/>
+  <path d="M0,170 C200,140 400,185 600,165 C720,150 800,178 854,165 L854,200 L0,200 Z" fill="#58A6FF" opacity="0.15"/>
+  <!-- Name -->
+  <text x="427" y="90" text-anchor="middle" font-family="Arial,sans-serif" font-size="48" font-weight="bold" fill="#ffffff">Emin Mahmudzade</text>
+  <!-- Description -->
+  <text x="427" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#a0c4ff">CS Graduate | Robotics &amp; ML Researcher | Building AI products</text>
+</svg>
