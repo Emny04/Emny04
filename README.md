@@ -1,3 +1,4 @@
+<!-- Profile README for Emny04 -->
 <!-- Banner / Typing animation -->
 <div align="center">
 
