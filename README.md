@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58A6FF,100:1a1b27&height=200&section=header&text=Emin%20Mahmudzade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%7C%20Robotics%20%26%20ML%20Researcher%20%7C%20Building%20AI%20products&descAlignY=58&descSize=18" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58A6FF,100:1a1b27&height=200&section=header&text=Emin%20Mahmudzade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%7C%20Robotics%20%26%20ML%20Researcher%20%7C%20Building%20AI%20products&descAlignY=58&descSize=18&v=3" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+ML+Researcher+at+RPAL;Building+AI-powered+products;Open+to+SWE+%2F+ML+%2F+Robotics+roles;USF+CS+Graduate+%7C+3.87+GPA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Robotics+%2B+ML+Researcher+at+RPAL;Building+AI-powered+products;Open+to+SWE+%2F+ML+%2F+Robotics+roles;USF+CS+Graduate+%7C+3.87+GPA&v=3" alt="Typing SVG" />
 </div>
 
 <br/>
